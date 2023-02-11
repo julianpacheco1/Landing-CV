@@ -1,0 +1,27 @@
+.light {
+    background-image: url("https://media.istockphoto.com/id/1302304170/es/v%C3%ADdeo/fondo-de-bucle-sin-costuras-bokeh-blanco-con-espacio-de-copia.jpg?b=1&s=640x640&k=20&c=6I-8AeEjXSTnLBa4gbKsBPEZIp8maNoiOGp8IPb5lc0=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+}
+
+
+.dark {
+    background-image: url("https://wallpaperaccess.com/full/1253083.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+
+.mode {
+    display: flex;
+    justify-content: right;
+    margin-right: 2%;
+    color: #25cff2;
+}
+
+.emoji{
+    cursor: pointer;
+}
