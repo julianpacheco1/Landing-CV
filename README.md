@@ -43,6 +43,10 @@ Este componente se renderiza en App.jsx y se llama ModalComp, para anularlo, pri
    ```sh
    npm start
    ```
+4. Abre
+   ```sh
+   localhost:3000/
+   ```   
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
 
