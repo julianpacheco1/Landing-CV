@@ -33,7 +33,7 @@ Este componente se renderiza en App.jsx y se llama ModalComp, para anularlo, pri
 
 1. Clona el repositorio en tu local
    ```sh
-   git clone https://github.com/Merssith/Librando-FRONT.git
+   git clone https://github.com/julianpacheco1/Landing-CV.git
    ```
 2. Instala las dependencias NPM
    ```sh
