@@ -1,6 +1,12 @@
-/* @media screen and (max-width : 576px) {
-    .row1 {
-       display: flex;
-      align-items: center;
-    }
-} */
+
+.mapa{
+ 
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  z-index: 2;
+}
+
+.icon-map{
+  color:#25cff2;
+}

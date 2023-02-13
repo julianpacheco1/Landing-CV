@@ -7,7 +7,7 @@ import { modalInfo } from "../utils/fakedata";
 import "../assets/modal.css"
 
 const ModalComp = () => {
-const [show, setShow] = useState(false); //poner en true antes de subir a github
+const [show, setShow] = useState(true); //poner en true antes de subir a github
 
   const handleClose = () => {
     setShow(false);

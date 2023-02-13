@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState } from "react";
+
 import { Container, Row } from "react-bootstrap";
 import {
   AiFillFacebook,
@@ -6,6 +7,7 @@ import {
   AiFillLinkedin,
   AiFillGithub,
 } from "react-icons/ai";
+
 import "../assets/footer.css";
 
 const Footer = () => {

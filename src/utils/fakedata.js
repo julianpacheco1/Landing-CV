@@ -1,4 +1,3 @@
-import React from "react"
 import julian from "./WhatsApp Image 2022-07-04 at 5.40.45 PM.jpeg"
 
 

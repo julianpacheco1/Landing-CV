@@ -6,3 +6,8 @@
 .i {
     font-size: 3em;
 }
+ 
+.mapa{
+    position: absolute;
+    z-index: 3;
+  } 
