@@ -2,6 +2,7 @@
 ## Recorrida general
 Este proyecto es un challenge, en el que se requería una Landing Page CV; requisitos mínimos, una Navbar, una Card, y sitio responsive.
 El recorrido es muy simple, hay un MODE CHANGE, modo dark y light, una Navbar, Cards dinámicas, footer dinamico. 
+
 ¡ATENCION! : Hay un modal o Popup, que se muestra la primera vez que se renderiza el sitio, y cada 30 segundos a partir de allí, para evitar una expperiencia molesta, recomiendo le anules la funcion settime, o diréctamente anules momentáneamente el componente. 
 Este componente se renderiza diréctamente en App.jsx y se llama ModalComp, para anularlo, primero debes seleccionarlo, y progseguir con Ctrl+shift+a.
 
